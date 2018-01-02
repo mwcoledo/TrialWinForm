@@ -1,0 +1,10 @@
+C:\Users\Michael Cole\source\repos\TrialGalleryApp1\TrialGalleryApp1\bin\Debug\TrialGalleryApp1.exe.config
+C:\Users\Michael Cole\source\repos\TrialGalleryApp1\TrialGalleryApp1\bin\Debug\TrialGalleryApp1.exe
+C:\Users\Michael Cole\source\repos\TrialGalleryApp1\TrialGalleryApp1\bin\Debug\TrialGalleryApp1.pdb
+C:\Users\Michael Cole\source\repos\TrialGalleryApp1\TrialGalleryApp1\obj\Debug\TrialGalleryApp1.csprojResolveAssemblyReference.cache
+C:\Users\Michael Cole\source\repos\TrialGalleryApp1\TrialGalleryApp1\obj\Debug\TrialGalleryApp1.Form1.resources
+C:\Users\Michael Cole\source\repos\TrialGalleryApp1\TrialGalleryApp1\obj\Debug\TrialGalleryApp1.Properties.Resources.resources
+C:\Users\Michael Cole\source\repos\TrialGalleryApp1\TrialGalleryApp1\obj\Debug\TrialGalleryApp1.csproj.GenerateResource.Cache
+C:\Users\Michael Cole\source\repos\TrialGalleryApp1\TrialGalleryApp1\obj\Debug\TrialGalleryApp1.csproj.CoreCompileInputs.cache
+C:\Users\Michael Cole\source\repos\TrialGalleryApp1\TrialGalleryApp1\obj\Debug\TrialGalleryApp1.exe
+C:\Users\Michael Cole\source\repos\TrialGalleryApp1\TrialGalleryApp1\obj\Debug\TrialGalleryApp1.pdb
